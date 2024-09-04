@@ -7,7 +7,7 @@ namespace Module03Exercise01
 {
     public partial class App : Application
     {
-        private const string TestUrl = "https://google.com";
+        private const string TestUrl = "https://reqbin.com";
 
         public App()
         {
